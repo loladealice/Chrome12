@@ -1,0 +1,27 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    color: #3d3a3a;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.chevron{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text{
+    outline: none;
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.para{
+    display: flex;
+    text-transform: uppercase;
+    color: #747171;
+}
